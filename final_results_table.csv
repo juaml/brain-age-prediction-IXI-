@@ -1,0 +1,3 @@
+Model,MAE (years),Pearson r,R²,Improvement (%),N Regions,Training Time
+Baseline (Regional Mean GMV),6.83,0.853,0.728,-,870,~2 min
+Stacking Ensemble (L0+L1),5.73,0.899,0.808,16.1%,177,~14 min
