@@ -25,3 +25,7 @@ Based on: Georgios Antonopoulos , Shammi More , Simon B. Eickhoff , Federico Rai
 
 ## 🎓 Author
 Fatma Karateke
+
+## Notebook Görüntüleme
+Notebook GitHub'da render edilemeyecek kadar büyük olduğundan, çıktılarıyla birlikte görüntülemek için:
+[nbviewer'da aç](https://nbviewer.org/github/juaml/brain-age-prediction-IXI-/blob/main/Brain%20Age%20Estimation%20Using%20IXI%20Data.ipynb)
