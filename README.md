@@ -21,7 +21,7 @@ MRI-based brain age estimation using region-wise stacking ensemble method.
 - `final_results_table.csv` - Performance metrics
 
 ## 📚 Reference
-Based on: More et al. (2025) "Region-wise stacking ensembles for estimating brain-age using structural MRI"
+Based on: Georgios Antonopoulos , Shammi More , Simon B. Eickhoff , Federico Raimondo , Kaustubh R. Patil , for the Alzheimer's Disease Neuroimaging Initiative 1 (2025) "Region-wise stacking ensembles for estimating brain-age using structural MRI"
 
 ## 🎓 Author
 Fatma Karateke
